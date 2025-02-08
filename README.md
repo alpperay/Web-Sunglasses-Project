@@ -45,11 +45,11 @@ git clone <repo-url>
 
 ## Ekran Görüntüleri
 
-Main Page
+**Main Page**
 
 ![scshoots 2](https://github.com/user-attachments/assets/c690d868-7eec-4a5e-8494-bc5265bd908b)
 
-Footer
+**Footer**
 
 ![scshoots 3](https://github.com/user-attachments/assets/7a62cd8f-2118-447e-b227-0d4281fdd478)
 
