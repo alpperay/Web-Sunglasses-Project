@@ -1,6 +1,8 @@
 # Güneş Gözlükleri Web Sitesi
 
-Bu proje, modern bir e-ticaret sitesi tasarımını içeren basit bir web sayfasıdır. Güneş gözlükleri için ürün bilgileri, indirimler ve sosyal medya bağlantıları sunulmaktadır.
+Bu proje, modern bir e-ticaret sitesi ``tasarımını`` içeren basit bir web sayfasıdır. Güneş gözlükleri için ürün bilgileri, indirimler ve sosyal medya bağlantıları sunulmaktadır.
+- HTML ve CSS kullanarak bir web sayfası tasarımının örneğini sunmaktadır.
+- Sayfa, HTML işaretleme dili ile yapılandırılmış ve CSS ile stilize edilmiştir.
 
 ## Proje Özeti
 
@@ -34,15 +36,26 @@ Proje dosya yapısı şu şekildedir:
 - [LinkedIn](https://linkedin.com/alperaytasci)
 - [Twitter](https://x.com/alperaytasci)
 
-## Kurulum
 
-Projeyi bilgisayarınıza klonlamak için aşağıdaki komutu kullanabilirsiniz:
+## Kullanım
 
+Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
+  
+1) Bu projeyi GitHub'dan indirin veya bu repository'yi bilgisayarınıza klonlayın.
 ````bash
-git clone <repo-url>
+git clone https://github.com/kullanici_adiniz/web-programlama-tasarim.git
 ````
-Ardından, dosyaları bir web sunucusunda çalıştırarak veya doğrudan tarayıcıda açarak siteyi görüntüleyebilirsiniz.
+3) index.html dosyasını bir web tarayıcısında açarak sayfayı görüntüleyebilirsiniz.
+- Tarayıcıda açmak için:
+- Dosyaya sağ tıklayın ve "Open with" seçeneği ile tercih ettiğiniz tarayıcıyı seçin.
+4) Projede yer alan style.css dosyası ile sayfa tasarımı değiştirebilir ve özelleştirebilirsiniz.
 
 ## Lisans
 
 2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır.
+
+## Katkı
+Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
+1) GitHub reposunu fork edin,
+2) Kendi değişikliklerinizi yapın ve pull request gönderin.
+
