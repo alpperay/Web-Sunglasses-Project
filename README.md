@@ -36,7 +36,7 @@ Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilir
   
 1) Bu projeyi GitHub'dan indirin veya bu repository'yi bilgisayarınıza klonlayın.
 ````bash
-git clone https://github.com/kullanici_adiniz/web-programlama-tasarim.git
+git clone <repo-url>
 ````
 2) index.html dosyasını bir web tarayıcısında açarak sayfayı görüntüleyebilirsiniz.
 - Tarayıcıda açmak için:
