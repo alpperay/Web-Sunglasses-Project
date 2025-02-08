@@ -43,6 +43,14 @@ git clone <repo-url>
 - Dosyaya sağ tıklayın ve "Open with" seçeneği ile tercih ettiğiniz tarayıcıyı seçin.
 3) Projede yer alan style.css dosyası ile sayfa tasarımı değiştirebilir ve özelleştirebilirsiniz.
 
+## Ekran Görüntüleri
+
+- Main Page
+![scshoots 2](https://github.com/user-attachments/assets/c690d868-7eec-4a5e-8494-bc5265bd908b)
+
+- Footer 
+![scshoots 3](https://github.com/user-attachments/assets/7a62cd8f-2118-447e-b227-0d4281fdd478)
+
 ## Lisans
 2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır.
 
