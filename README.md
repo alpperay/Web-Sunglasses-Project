@@ -1,6 +1,6 @@
 # Güneş Gözlükleri Web Sitesi
 
-Bu proje, modern bir e-ticaret sitesi `tasarımını` içeren basit bir web sayfasıdır. Güneş gözlükleri için ürün bilgileri, indirimler ve sosyal medya bağlantıları sunulmaktadır.
+Bu proje, modern bir e-ticaret sitesi `tasarımını`  içeren basit bir web sayfasıdır. Güneş gözlükleri için ürün bilgileri, indirimler ve sosyal medya bağlantıları sunulmaktadır.
 - HTML ve CSS kullanarak bir web sayfası tasarımının örneğini sunmaktadır.
 - Sayfa, HTML işaretleme dili ile yapılandırılmış ve CSS ile stilize edilmiştir.
 
