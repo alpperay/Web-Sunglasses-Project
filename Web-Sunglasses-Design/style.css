@@ -1,21 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
 * {
-  font-family: Verdana, Helvetica, sans-serif;
+  font-family: "Roboto", serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 .anasayfa img {
-  width: 130px;
-  height: 130px;
-  margin-top: 20px;
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+.anasayfa hr {
+  border: 1px solid orange;
 }
 
 .header-text {
   text-align: center;
-  margin-top: -110px;
+  margin-top: -100px;
+  margin-left:100px;
   font-size: 30px;
   color: #333;
+  letter-spacing: 10px;
 }
 
 .navbar ul {
@@ -118,7 +126,7 @@
 }
 
 .social-icons {
-  gap: 20px;
+  gap: 30px;
   display: flex;
   margin-top: 10px;
 }
@@ -127,18 +135,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 7rem;
-  height: 7rem;
+  width: 6rem;
+  height: 6rem;
   font-size: 50px;
   border: 3px solid #ff6f00;
   border-radius: 50%;
   text-decoration: none;
   color: #333;
-  transition: 0.4s;
+  transition: 0.4s ease-in-out;
 }
 
 .social-icons a:hover {
   color: white;
   background-color: #ff6f00;
   box-shadow: 0 0 25px #ff6f00;
+  transform: scale(1.1) translateY(-5px);
 }
