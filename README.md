@@ -47,11 +47,11 @@ git clone <repo-url>
 
 **Main Page**
 
-![scshoots 2](https://github.com/user-attachments/assets/c690d868-7eec-4a5e-8494-bc5265bd908b)
+![github scshoots 01](https://github.com/user-attachments/assets/c773125e-7615-46ae-b3d5-471e96b1a294)
 
 **Footer**
 
-![scshoots 3](https://github.com/user-attachments/assets/7a62cd8f-2118-447e-b227-0d4281fdd478)
+![gozluk sitesi scshoots 02](https://github.com/user-attachments/assets/3c53a648-febd-4aeb-b081-8e15c1a18382)
 
 ## Lisans
 2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır.
