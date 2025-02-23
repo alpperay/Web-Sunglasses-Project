@@ -53,6 +53,10 @@ git clone <repo-url>
 
 ![gozluk sitesi scshoots 02](https://github.com/user-attachments/assets/3c53a648-febd-4aeb-b081-8e15c1a18382)
 
+## Geliştirici & Yazar
+
+**Alp Eray Taşçı**
+
 ## Lisans
 2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır.
 
